@@ -1,0 +1,16 @@
+﻿Language: Cpp
+IndentWidth: 4
+DerivePointerAlignment: false
+PointerAlignment: Left
+ColumnLimit: 110
+AlignAfterOpenBracket: DontAlign
+AlignConsecutiveMacros: true
+AlignConsecutiveAssignments: 'true'
+AlignConsecutiveDeclarations: 'true'
+AllowShortFunctionsOnASingleLine: None
+BinPackArguments: 'true'
+BinPackParameters: 'true'
+SpacesInSquareBrackets: 'false'
+BreakConstructorInitializers: BeforeComma
+BreakBeforeBraces: Stroustrup
+SortIncludes: false
